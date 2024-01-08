@@ -1,4 +1,5 @@
 package sample;
+import java.util.Scanner;
 
 public class Sample5 {
 
@@ -34,7 +35,7 @@ public class Sample5 {
 
 		        return true;
 		    }
-		}
+		
 
 
 	}
