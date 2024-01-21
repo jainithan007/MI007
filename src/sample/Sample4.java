@@ -15,7 +15,7 @@ public class Sample4 {
 		        System.out.print("Enter the second number: ");
 		        int num2 = scanner.nextInt();
 
-		        // Swapping using an additional variable
+		       
 		        int temp = num1;
 		        num1 = num2;
 		        num2 = temp;

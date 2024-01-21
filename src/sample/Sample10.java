@@ -13,7 +13,7 @@ public class Sample10 {
       int digitcount = countdigits(number);
       System.out.println("number of digits:"+ digitcount);
       
-      scanner.close();
+     
       
 	}
 	private static int countdigits(int number) {

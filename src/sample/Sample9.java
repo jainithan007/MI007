@@ -11,7 +11,7 @@ public class Sample9 {
     System.out.print("enter the age :");
     int age = scanner.nextInt();
     
-    if (age >= 50) {
+    if (age >= 60) {
     	System.out.println("Senior citizen");
     
     }
@@ -20,7 +20,7 @@ public class Sample9 {
     	
     	System.out.println("Not a senior citizen");
     }
-    scanner.close();
+   
 	}
 
 }

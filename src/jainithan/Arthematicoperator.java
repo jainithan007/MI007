@@ -4,15 +4,13 @@ public class Arthematicoperator {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int  a = 11, b = 2 , c;
-	
+		float  a = 10, b = 100;
+
+		a = a *b;
 		
-		a  = a + b ;
-		
-		c = a++;
-		
-		System.out.println("a is " + c );
-		System.out.println("c is " + a );
+		System.out.println("a is " + a );
+		System.out.println( a - b);
+			
 		
 
 	}
